@@ -1,0 +1,195 @@
+{
+  "identifier" : "F97C0F21",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "5.0",
+      "familyShareable" : false,
+      "internalID" : "6467355410",
+      "localizations" : [
+        {
+          "description" : "Personal scenario !",
+          "displayName" : "Personal scenario",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "app.gptalks.personalScenario",
+      "referenceName" : "Personal scenario",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6453692555",
+    "_askToBuyEnabled" : true,
+    "_compatibilityTimeRate" : {
+      "3" : 6,
+      "5" : 1004
+    },
+    "_developerTeamID" : "39TB88C2H5",
+    "_lastSynchronizedDate" : 717060250.427212,
+    "_timeRate" : 1005
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21375758",
+      "localizations" : [
+
+      ],
+      "name" : "subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+            {
+              "internalID" : "E5F6C90A",
+              "numberOfPeriods" : 1,
+              "offerID" : "annualTrialDis40",
+              "paymentMode" : "free",
+              "referenceName" : "trial",
+              "subscriptionPeriod" : "P3D"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "43.0",
+          "familyShareable" : false,
+          "groupNumber" : 4,
+          "internalID" : "6467084323",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Yearly access to premium with 40% discount.",
+              "displayName" : "1 year",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "app.gptalks.annualDis40",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "annualDis40Premium",
+          "subscriptionGroupID" : "21375758",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+            {
+              "internalID" : "5D8F3D2C",
+              "numberOfPeriods" : 1,
+              "offerID" : "annualTrialDis60",
+              "paymentMode" : "free",
+              "referenceName" : "annualTrial",
+              "subscriptionPeriod" : "P3D"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "28.99",
+          "familyShareable" : false,
+          "groupNumber" : 5,
+          "internalID" : "6467084285",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Yearly access to premium with 60% discount.",
+              "displayName" : "1 year",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "app.gptalks.annualDis60",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "annualDis60Premium",
+          "subscriptionGroupID" : "21375758",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+            {
+              "internalID" : "D25B98A7",
+              "numberOfPeriods" : 1,
+              "offerID" : "1yearTrial",
+              "paymentMode" : "free",
+              "referenceName" : "annualTrial",
+              "subscriptionPeriod" : "P3D"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "71.99",
+          "familyShareable" : false,
+          "groupNumber" : 3,
+          "internalID" : "6467083259",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Year of premium",
+              "displayName" : "Annual Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "app.gptalks.annual",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "annualPremium",
+          "subscriptionGroupID" : "21375758",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "11.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "6463010003",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Monthly access to premium",
+              "displayName" : "1 month",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "app.gptalks.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "monthlyPremium",
+          "subscriptionGroupID" : "21375758",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "7.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6463009753",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "1 week access to premium",
+              "displayName" : "1 week",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "app.gptalks.weekly",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "weeklyPremium",
+          "subscriptionGroupID" : "21375758",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}

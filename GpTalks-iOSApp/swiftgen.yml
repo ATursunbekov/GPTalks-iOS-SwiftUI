@@ -1,0 +1,24 @@
+xcassets:
+    - inputs:
+        - SupportFiles/AssetsImage.xcassets
+      outputs:
+        - templateName: swift5
+          params:
+            forceProvidesNamespaces: true
+            enumName: AssetsImage
+          output: SupportFiles/Resources/Generated/AssetsImage.swift
+    - inputs:
+        - SupportFiles/Colors.xcassets
+      outputs:
+        - templateName: swift5
+          params:
+            forceProvidesNamespaces: true
+            enumName: Colors
+          output: SupportFiles/Resources/Generated/Colors.swift
+
+fonts:
+    inputs:
+      - SupportFiles/Resources/Fonts
+    outputs:
+      - templateName: swift5
+        output: SupportFiles/Resources/Generated/Fonts.swift
